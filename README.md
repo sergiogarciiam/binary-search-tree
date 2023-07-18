@@ -1,7 +1,7 @@
 # Binary Search Tree
-Implementation of a [binary search tree](./src/binarySearchTrees.js) with JavaScript.
+[Binary search tree](./src/binarySearchTrees.js) implemented with JavaScript.
 
-The project is from The [Odin Project](https://www.theodinproject.com/lessons/javascript-binary-search-trees) curriculum.
+This project is from [The Odin Project](https://www.theodinproject.com/lessons/javascript-binary-search-trees) curriculum.
 
 ## Features
 
